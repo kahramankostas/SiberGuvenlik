@@ -4,6 +4,7 @@ BTK Akademi, birçok alanda oldukça faydalı eğitimler sunmaktadır. Bu eğiti
 
 Aşağıda siber güvenlik alanındaki eğitimleri ve bunlara erişebileceğiniz linkleri listeledim. Uzun vadede amacım, bu eğitimlere göz atarak kendi değerlendirmemi de eklemek.
 
+## Tablo
 
 | PUANIM | KURS                                                   |  Seviye | SüRE (ss.dd)  | Link                                                                                                             |
 | ------ | ------------------------------------------------------ | ------------ | ----- | ---------------------------------------------------------------------------------------------------------------- |
@@ -45,13 +46,8 @@ Aşağıda siber güvenlik alanındaki eğitimleri ve bunlara erişebileceğiniz
 |        | TOPLAM   SüRE                                          |              | 139   |                                                                                                                  |
 
 
-### <a name="#ABG01"></a>Adli Bilişime Giriş 
-Go to section
-* 
-* [Hello World](#hello-world)
-* [Another section](#new-section) <-- it's called 'Another section' in this list but refers to 'New section'
 
 
-## Adli Bilişime Giriş
-### Hello World
-## New section
+## Adli Bilişime Giriş 
+
+[top](#tablo)     
