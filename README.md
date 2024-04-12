@@ -1,9 +1,11 @@
+## BTK Akademi Siber Güvenlik Eğitimleri 
+
 BTK Akademi, birçok alanda oldukça faydalı eğitimler sunmaktadır. Bu eğitimlere BTK Akademi'nin web sitesi (https://www.btkakademi.gov.tr/) üzerinden E-devlet şifrenizle giriş yaparak erişebilirsiniz. Eğitimi tamamladıktan sonra onaylı katılım sertifikası da alabilirsiniz.
 
 Aşağıda siber güvenlik alanındaki eğitimleri ve bunlara erişebileceğiniz linkleri listeledim. Uzun vadede amacım, bu eğitimlere göz atarak kendi değerlendirmemi de eklemek.
 
 
-| PUANIM | KURS                                                   |  Seviye | SüRE  | Link                                                                                                             |
+| PUANIM | KURS                                                   |  Seviye | SüRE (ss.dd)  | Link                                                                                                             |
 | ------ | ------------------------------------------------------ | ------------ | ----- | ---------------------------------------------------------------------------------------------------------------- |
 |        | [Adli Bilişime Giriş](#ABG01)                                | Genel| 16.22 | [Link](https://www.btkakademi.gov.tr/portal/course/adli-bilisime-giris-24376)                                    |
 |        | Ağ Temelleri                                           | Temel| 4.04  | [Link](https://www.btkakademi.gov.tr/portal/course/ag-temelleri-22020)                                           |
@@ -41,19 +43,6 @@ Aşağıda siber güvenlik alanındaki eğitimleri ve bunlara erişebileceğiniz
 |        | Web Uygulama Güvenliği ve Web Sızma Tekniklerine Giriş | Temel| 2.3   | [Link](https://www.btkakademi.gov.tr/portal/course/web-uygulama-guvenligi-ve-web-sizma-tekniklerine-giris-10587) |
 |        | Windows İşletim Sistemleri Güvenliği                   | Temel| 2.26  | [Link](https://www.btkakademi.gov.tr/portal/course/windows-isletim-sistemleri-guvenligi-20827)                   |
 |        | TOPLAM   SüRE                                          |              | 139   |                                                                                                                  |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### <a name="#ABG01"></a>Adli Bilişime Giriş 
