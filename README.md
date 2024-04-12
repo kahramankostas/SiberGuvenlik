@@ -1,3 +1,5 @@
+## BTK Akademi Siber Güvenlik Eğitimleri 
+
 BTK Akademi, birçok alanda oldukça faydalı eğitimler sunmaktadır. Bu eğitimlere BTK Akademi'nin web sitesi (https://www.btkakademi.gov.tr/) üzerinden E-devlet şifrenizle giriş yaparak erişebilirsiniz. Eğitimi tamamladıktan sonra onaylı katılım sertifikası da alabilirsiniz.
 
 Aşağıda siber güvenlik alanındaki eğitimleri ve bunlara erişebileceğiniz linkleri listeledim. Uzun vadede amacım, bu eğitimlere göz atarak kendi değerlendirmemi de eklemek.
